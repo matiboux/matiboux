@@ -1,10 +1,10 @@
 ### Hi! Here are things about me:
 
-🖐 I'm Mati, currently a 19-years-old student in computer science at EPITA.
+🖐 I'm Mati, currently a 19-years-old student in computer science at EPITA in Paris, France.
 
 💾 I started my journey in computing by learning how to code in C back in 2010,
 before quickly diving into web programming languages for the quick development pace they allowed me.
-Nowadays I know and use regurlarly several programming languages.
+Nowadays I know and use regularly several programming languages.
 
 🧰 I work on multiple and various projects, although none are both public and stable enough to be showcased yet.
 
