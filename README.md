@@ -19,7 +19,7 @@ Nowadays I know and use regularly several programming languages.
 
 👤 You can read more about me and my project by looking at my [Curriculum Vitae](https://matiboux.me/cv) and my [work timeline](https://matiboux.me/timeline).
 
-![Matiboux's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matiboux&hide_border=true&count_private=true&show_icons=true)
+![Matiboux's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matiboux&hide_border=true&show_icons=true)
 ![Matiboux's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=matiboux&langs_count=8&hide=&hide_border=true&layout=compact)
 
 [![](https://img.shields.io/badge/LinkedIn-0a66c2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiboux)
