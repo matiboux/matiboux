@@ -30,6 +30,7 @@ Nowadays I know and use regularly several programming languages.
 ![Matiboux's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matiboux&hide_border=true&show_icons=true)
 ![Matiboux's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=matiboux&langs_count=8&hide=&hide_border=true&layout=compact)
 
+Find me there:
 [![](https://img.shields.io/badge/LinkedIn-0a66c2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiboux)
 [![](https://img.shields.io/badge/Telegram-0088cc.svg?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Matiboux)  
 Visit my personal website: [matiboux.me](https://matiboux.me/)  
