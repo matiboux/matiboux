@@ -4,7 +4,15 @@
 
 🎓 I'm a student in computer science engineering at EPITA in Paris, France.
 
-💻 I code in C, C++, Java, C#, Python, PHP, JavaScript.
+<!-- 💻 I code in C, C++, Java, C#, Python, PHP, JavaScript. -->
+💻 I code mostly in:
+![C](https://img.shields.io/badge/C-2570ae.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-659bd3.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ea2e2d.svg?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1e9e25.svg?style=flat-square&logo=c%23&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3b78a7.svg?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-787cb4.svg?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e.svg?style=flat-square&logo=javascript&logoColor=white)
 
 <!--
 📝 I started my journey in computing by learning how to code in C back in 2010, before diving into web development.
