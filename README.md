@@ -13,7 +13,8 @@
 ![Python](https://img.shields.io/badge/Python-3b78a7.svg?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-787cb4.svg?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e.svg?style=flat-square&logo=javascript&logoColor=white)
-![HTML + CSS](https://img.shields.io/badge/HTML%20%2b%20CSS-f16625?style=flat-square&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-f16625?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-264ee4?style=flat-square&logo=css3&logoColor=white)
 
 <!--
 📝 I started my journey in computing by learning how to code in C back in 2010, before diving into web development.
