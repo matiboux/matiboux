@@ -22,6 +22,8 @@ and I also experimented with:
 ![Assembly](https://img.shields.io/badge/Assembly-eeeeee?style=flat-square&logo=assembly&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-01969c?style=flat-square&logo=arduino&logoColor=white)
 ![Processing](https://img.shields.io/badge/Processing-f8f9fa?style=flat-square&logo=processing%20foundation&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4ab056?style=flat-square&logo=gnu%20bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-002458?style=flat-square&logo=powershell&logoColor=white)
 
 <!--
 📝 I started my journey in computing by learning how to code in C back in 2010, before diving into web development.
