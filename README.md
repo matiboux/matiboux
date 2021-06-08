@@ -35,6 +35,6 @@ Nowadays I know and use regularly several programming languages.
 Find me there:
 [![](https://img.shields.io/badge/LinkedIn-0a66c2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiboux)
 [![](https://img.shields.io/badge/Telegram-0088cc.svg?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Matiboux)  
-Visit my personal website: [matiboux.me](https://matiboux.me/)  
+Visit my personal website: [matiboux.me](https://matiboux.me/)
 
-<!-- Reach me on Telegram: [@Matiboux](https://t.me/Matiboux) -->
+💬 Wanna ask something? You can reach me by [opening an issue](https://github.com/matiboux/matiboux/issues/new) here on Github or via [Telegram](https://t.me/Matiboux).
