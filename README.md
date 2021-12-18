@@ -1,6 +1,6 @@
 ### Hi! Here are things about me:
 
-🖐 I'm Mati, I'm 20 years old and I live in Paris, France.
+🖐 I'm Mati, I'm 21 years old and I live in Paris, France.
 
 🎓 I'm a student in computer science engineering at EPITA in Paris, France.
 
