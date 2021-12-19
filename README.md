@@ -121,4 +121,5 @@ Find me there:
 [![](https://img.shields.io/badge/Telegram-0088cc.svg?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Matiboux)  
 Visit my personal website: [matiboux.me](https://matiboux.me/)
 
-💬 Wanna ask something? You can reach me by [opening an issue](https://github.com/matiboux/matiboux/issues/new) here on Github or via [Telegram](https://t.me/Matiboux).
+💬 Wanna ask something? You can reach me by [opening an issue](https://github.com/matiboux/matiboux/issues/new) here on Github or via [Telegram](https://t.me/Matiboux).  
+📧 For professional inquiries, your can contact me by [sending me an email](mailto:pro@mtbx.it).
