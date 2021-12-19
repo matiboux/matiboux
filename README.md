@@ -70,10 +70,11 @@ and I also experimented with:
     [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088ff?style=flat-square&logo=gitHub%20actions&logoColor=white)]()
     [![Travis CI](https://img.shields.io/badge/Travis%20CI-dfedff?style=flat-square&logo=travis%20ci&logoColor=black)]()
   - IDEs:
-    [![VC Code](https://img.shields.io/badge/VS%20Code-0066b8?style=flat-square&logo=visual%20studio%20code&logoColor=white)]()
+    [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0066b8?style=flat-square&logo=visual%20studio%20code&logoColor=white)]()
     [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-117cf0?style=flat-square&logo=intellij%20idea&logoColor=white)]()
     [![Rider](https://img.shields.io/badge/Rider-002458?style=flat-square&logo=rider&logoColor=white)]()
     [![PyCharm](https://img.shields.io/badge/PyCharm-dfedff?style=flat-square&logo=pycharm&logoColor=black)]()
+    [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-dcd4f6?style=flat-square&logo=visual%20studio&logoColor=7252aa)]()
 
   <!--
   - Office tools:
