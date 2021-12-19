@@ -40,9 +40,6 @@ and I also experimented with:
     [![NetworkX](https://img.shields.io/badge/NetworkX-dfedff?style=flat-square)]()
     [![pytest](https://img.shields.io/badge/pytest-dfedff?style=flat-square)]()
   -->
-  - Android:
-    [![Android Studio](https://img.shields.io/badge/Android%20Studio-78c257?style=flat-square&logo=android%20studio&logoColor=white)]()
-    in [![Java](https://img.shields.io/badge/Java-ea2e2d.svg?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java)
   - C++:
     [![Boost](https://img.shields.io/badge/Boost-dfedff?style=flat-square)]()
     [![JSON for Modern C++](https://img.shields.io/badge/JSON-dfedff?style=flat-square)]()
@@ -67,6 +64,9 @@ and I also experimented with:
     [![FontAwesome](https://img.shields.io/badge/FontAwesome-515e7b?style=flat-square&logo=font%20awesome&logoColor=white)]()
     [![Jekyll](https://img.shields.io/badge/Jekyll-dfedff?style=flat-square&logo=jekyll&logoColor=black)]()
     [![Tailwindcss](https://img.shields.io/badge/Tailwindcss-f8fafc?style=flat-square&logo=tailwindcss&logoColor=black)]()
+  - Android:
+    [![Android Studio](https://img.shields.io/badge/Android%20Studio-78c257?style=flat-square&logo=android%20studio&logoColor=white)]()
+    in [![Java](https://img.shields.io/badge/Java-ea2e2d.svg?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java)
   - Git:
     [![Git](https://img.shields.io/badge/Git-f03c2e?style=flat-square&logo=git&logoColor=white)]()
     [![Github](https://img.shields.io/badge/Github-24292e?style=flat-square&logo=github&logoColor=white)]()
