@@ -39,12 +39,9 @@ and I also experimented with:
     [![Boost](https://img.shields.io/badge/Boost-dfedff?style=flat-square)]()
     [![JSON for Modern C++](https://img.shields.io/badge/JSON-dfedff?style=flat-square)]()
   - Java:
-    [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-117cf0?style=flat-square&logo=intellij%20idea&logoColor=white)]()
     [![Spark](https://img.shields.io/badge/Spark-dfedff?style=flat-square)]()
   - C#:
-    [![Rider](https://img.shields.io/badge/Rider-002458?style=flat-square&logo=rider&logoColor=white)]()
   - Python:
-    [![PyCharm](https://img.shields.io/badge/PyCharm-dfedff?style=flat-square&logo=pycharm&logoColor=black)]()
     [![requests](https://img.shields.io/badge/requests-dfedff?style=flat-square)]()
     [![NetworkX](https://img.shields.io/badge/NetworkX-dfedff?style=flat-square)]()
     [![pytest](https://img.shields.io/badge/pytest-dfedff?style=flat-square)]()
@@ -72,6 +69,11 @@ and I also experimented with:
   - CI/CD:
     [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088ff?style=flat-square&logo=gitHub%20actions&logoColor=white)]()
     [![Travis CI](https://img.shields.io/badge/Travis%20CI-dfedff?style=flat-square&logo=travis%20ci&logoColor=black)]()
+  - IDEs:
+    [![VC Code](https://img.shields.io/badge/VS%20Code-0066b8?style=flat-square&logo=visual%20studio%20code&logoColor=white)]()
+    [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-117cf0?style=flat-square&logo=intellij%20idea&logoColor=white)]()
+    [![Rider](https://img.shields.io/badge/Rider-002458?style=flat-square&logo=rider&logoColor=white)]()
+    [![PyCharm](https://img.shields.io/badge/PyCharm-dfedff?style=flat-square&logo=pycharm&logoColor=black)]()
 
   <!--
   - Office tools:
