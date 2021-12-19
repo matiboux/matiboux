@@ -35,12 +35,6 @@ and I also experimented with:
     [![Makefile](https://img.shields.io/badge/Makefile-dfedff?style=flat-square)]()
     [![CMake](https://img.shields.io/badge/CMake-dfedff?style=flat-square)]()
     [![Autotools](https://img.shields.io/badge/Autotools-dfedff?style=flat-square)]()
-  - C++:
-    [![Boost](https://img.shields.io/badge/Boost-dfedff?style=flat-square)]()
-    [![JSON for Modern C++](https://img.shields.io/badge/JSON-dfedff?style=flat-square)]()
-  - Java:
-    [![Spark](https://img.shields.io/badge/Spark-dfedff?style=flat-square)]()
-  - C#:
   - Python:
     [![requests](https://img.shields.io/badge/requests-dfedff?style=flat-square)]()
     [![NetworkX](https://img.shields.io/badge/NetworkX-dfedff?style=flat-square)]()
@@ -49,6 +43,16 @@ and I also experimented with:
   - Android:
     [![Android Studio](https://img.shields.io/badge/Android%20Studio-78c257?style=flat-square&logo=android%20studio&logoColor=white)]()
     in [![Java](https://img.shields.io/badge/Java-ea2e2d.svg?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java)
+  - C++:
+    [![Boost](https://img.shields.io/badge/Boost-dfedff?style=flat-square)]()
+    [![JSON for Modern C++](https://img.shields.io/badge/JSON-dfedff?style=flat-square)]()
+  - Java:
+    [![Spark](https://img.shields.io/badge/Spark-dfedff?style=flat-square)]()
+  - C#:
+    [![.NET](https://img.shields.io/badge/.NET-7014e8?style=flat-square&logo=dotnet&logoColor=white)]()
+  - PHP:
+    [![Wordpress](https://img.shields.io/badge/Wordpress-23282d?style=flat-square&logo=wordpress&logoColor=white)]()
+    [![Symfony](https://img.shields.io/badge/Symfony-ffffff?style=flat-square&logo=symfony&logoColor=black)]()
   - SQL:
     [![MySQL](https://img.shields.io/badge/MySQL-00628b?style=flat-square&logo=mysql&logoColor=white)]()
     [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336691?style=flat-square&logo=postgresql&logoColor=white)]()
