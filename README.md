@@ -122,4 +122,4 @@ Find me there:
 Visit my personal website: [matiboux.me](https://matiboux.me/)
 
 💬 Wanna ask something? You can reach me by [opening an issue](https://github.com/matiboux/matiboux/issues/new) here on Github or via [Telegram](https://t.me/Matiboux).  
-📧 For professional inquiries, your can contact me by [sending me an email](mailto:pro@mtbx.it).
+📧 For professional inquiries, you can [send me an email](mailto:pro@mtbx.it).
