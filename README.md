@@ -27,9 +27,10 @@ and I also experimented with:
 [![PowerShell](https://img.shields.io/badge/PowerShell-002458?style=flat-square&logo=powershell&logoColor=white)](https://docs.microsoft.com/fr-fr/powershell)
 
 <details>
-  <summary>Of course, I've used many libraries, tools and frameworks as well!</summary>
+  <summary>🧰 Of course, I've used many libraries, tools and frameworks as well! (open to see details)</summary>
+  <br />
 
-   <!--
+  <!--
   - Build systems:
     [![Makefile](https://img.shields.io/badge/Makefile-dfedff?style=flat-square)]()
     [![CMake](https://img.shields.io/badge/CMake-dfedff?style=flat-square)]()
@@ -92,7 +93,7 @@ before quickly diving into web programming languages for the quick development p
 Nowadays I know and use regularly several programming languages.
 -->
 
-🧰 I work on multiple and various projects – for school, work or myself –, although most are not public or not stable enough to be showcased yet.
+🗃️ I work on multiple and various projects – for school, work or myself –, although most are not public or not stable enough to be showcased yet.
 
 👤 You can read more about me and my project by looking at my [Curriculum Vitae](https://matiboux.me/cv) and my [work timeline](https://matiboux.me/timeline).
 
