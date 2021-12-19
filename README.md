@@ -62,6 +62,7 @@ and I also experimented with:
     [![Bootstrap](https://img.shields.io/badge/Bootstrap-99798e?style=flat-square&logo=bootstrap&logoColor=white)]()
     [![FontAwesome](https://img.shields.io/badge/FontAwesome-515e7b?style=flat-square&logo=font%20awesome&logoColor=white)]()
     [![Jekyll](https://img.shields.io/badge/Jekyll-dfedff?style=flat-square&logo=jekyll&logoColor=black)]()
+    [![Tailwindcss](https://img.shields.io/badge/Tailwindcss-f8fafc?style=flat-square&logo=tailwindcss&logoColor=black)]()
   - Git:
     [![Git](https://img.shields.io/badge/Git-f03c2e?style=flat-square&logo=git&logoColor=white)]()
     [![Github](https://img.shields.io/badge/Github-24292e?style=flat-square&logo=github&logoColor=white)]()
