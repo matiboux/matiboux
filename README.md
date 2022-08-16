@@ -118,8 +118,9 @@ Nowadays I know and use regularly several programming languages.
 
 Find me there:
 [![](https://img.shields.io/badge/LinkedIn-0a66c2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiboux)
-[![](https://img.shields.io/badge/Telegram-0088cc.svg?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Matiboux)  
+[![](https://img.shields.io/badge/Telegram-0088cc.svg?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Matiboux)
+[![](https://img.shields.io/badge/Discord%3A%20Matiboux%237155-2c2f33.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/184008667690041345)  
 Visit my personal website: [matiboux.me](https://matiboux.me/)
 
-💬 Wanna ask something? You can reach me by [opening an issue](https://github.com/matiboux/matiboux/issues/new) here on Github or via [Telegram](https://t.me/Matiboux).  
+💬 Wanna ask something? You can reach me by [opening a public issue here](https://github.com/matiboux/matiboux/issues/new) on Github or messaging me via [Telegram](https://t.me/Matiboux) or [Discord](https://discord.com/users/184008667690041345).  
 📧 For professional inquiries, you can [send me an email](mailto:pro@mtbx.it).
