@@ -1,8 +1,12 @@
 ### Hi! Here are things about me:
 
-🖐 I'm Mati, I'm 21 years old and I live in Paris, France.
+🖐 I'm Mati, 22 years old and I live in Paris, France.
 
-🎓 I'm a student in computer science engineering at EPITA in Paris, France.
+🎓 I am a student at [EPITA](https://www.epita.fr), specialized in Data Science & AI.
+
+💼 I work at [Saegus](https://saegus.com) as a Data Engineer Consultant Intern.
+
+💖 I am IT staff and developer in two associations, copresident of the first: [2GETHER](https://www.2gether-asso.fr) and [Fluff Event](https://fluffevent.fr).
 
 <!-- 💻 I code in C, C++, Java, C#, Python, PHP, JavaScript. -->
 💻 I code mostly in:
