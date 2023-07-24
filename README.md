@@ -119,7 +119,7 @@ Nowadays I know and use regularly several programming languages.
 
 ---
 
-![Matiboux's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matiboux&hide_border=true&show_icons=true)
+![Matiboux's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matiboux&show=reviews&hide_border=true&show_icons=true)
 ![Matiboux's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=matiboux&langs_count=8&hide=&hide_border=true&layout=compact)  
 ![Matiboux's GitHub Daily Streak](https://github-readme-streak-stats.herokuapp.com?user=matiboux&theme=transparent&hide_border=true&card_width=165&hide_current_streak=true&hide_longest_streak=true)
 ![Matiboux's GitHub Daily Streak](https://github-readme-streak-stats.herokuapp.com?user=matiboux&theme=transparent&hide_border=true&card_width=330&hide_total_contributions=true&exclude_days=Sun%2CSat)
