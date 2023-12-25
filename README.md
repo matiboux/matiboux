@@ -1,21 +1,20 @@
 ### Hi! Here are things about me:
 
-🖐 I'm Mati, 22 years old, currently living in Paris, France.
+🖐 I'm Mati, 23 years old, currently living in Paris, France.
 
-🎓 I am a graduating student at [EPITA](https://www.epita.fr), specialized in Data Science & AI.
+💼 I work at [Saegus](https://saegus.com) as a Data Consultant, specialized in Cloud Architecture & Generative AI.
 
-💼 I work at [Saegus](https://saegus.com) as a Junior Data Consultant, specialized in Cloud Architecture & Generative AI.
+🎓 I have graduated from [EPITA](https://www.epita.fr), with an Engineering Master's degree in Computer Science, specialized in Data Science & AI.
 
-⭐ I am copresident, lead tech and developer at [2GETHER](https://www.2gether-asso.fr) (non-profit association).
-
-💖 I am a volunteer, lead tech and developer at [Fluff Event](https://fluffevent.fr) (non-profit association for charity).
+⭐ I am copresident & lead tech developer at [2GETHER](https://www.2gether-asso.fr) (non-profit association).  
+💖 I am a volunteer & lead tech developer at [Fluff Event](https://fluffevent.fr) (non-profit association for charity).
 
 ---
 
 💻 I code mostly in:
 [![Python](https://img.shields.io/badge/Python-3b78a7.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![PHP](https://img.shields.io/badge/PHP-787cb4.svg?style=flat-square&logo=php&logoColor=white)](https://www.php.net)
 [![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e.svg?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PHP](https://img.shields.io/badge/PHP-787cb4.svg?style=flat-square&logo=php&logoColor=white)](https://www.php.net)
 [![SQL](https://img.shields.io/badge/SQL-eeeeee.svg?style=flat-square&logo=mysql&logoColor=black)](https://www.iso.org/standard/63555.html)  
 🧠 I also set up and work with AI models for work.
 
