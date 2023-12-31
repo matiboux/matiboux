@@ -7,7 +7,7 @@
 🎓 I have graduated from [EPITA](https://www.epita.fr), with an Engineering Master's degree in Computer Science, specialized in Data Science & AI.
 
 ⭐ I am copresident & lead tech developer at [2GETHER](https://www.2gether-asso.fr) (non-profit association).  
-💖 I am a volunteer & lead tech developer at [Fluff Event](https://fluffevent.fr) (non-profit association for charity).
+💖 I am an administrator & lead tech developer at [Fluff Event](https://fluffevent.fr) (non-profit association for charity).
 
 ---
 
