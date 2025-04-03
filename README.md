@@ -1,6 +1,6 @@
 ### Hi! Here are things about me:
 
-🖐 I'm Mati, 23 years old, currently living in Paris, France.
+🖐 I'm Mati, 24 years old, currently living in Paris, France.
 
 💼 I work at [Saegus](https://saegus.com) as a Data Consultant, specialized in Cloud Architecture & Generative AI.
 
