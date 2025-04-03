@@ -2,12 +2,12 @@
 
 🖐 I'm Mati, 24 years old, currently living in Paris, France.
 
-💼 I work at [Saegus](https://saegus.com) as a Data Consultant, specialized in Cloud Architecture & Generative AI.
+💼 I work at [Saegus](https://saegus.com) as a Consultant in Data/AI Engineering & Cloud Architecture.
 
 🎓 I have graduated from [EPITA](https://www.epita.fr), with an Engineering Master's degree in Computer Science, specialized in Data Science & AI.
 
 ⭐ I am copresident & lead tech developer at [2GETHER](https://www.2gether-asso.fr) (non-profit association).  
-💖 I am an administrator & lead tech developer at [Fluff Event](https://fluffevent.fr) (non-profit association for charity).
+💖 I am an administrator & lead tech support at [Fluff Event](https://fluffevent.fr) (non-profit association fundraising for charities).
 
 ---
 
